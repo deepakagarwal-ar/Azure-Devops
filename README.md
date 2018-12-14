@@ -1,2 +1,2 @@
-# Azure-Devops
-learning azure devops
+# AzureLearning
+Azure Learning repository
